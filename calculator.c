@@ -22,7 +22,7 @@ else
   printf("Cannot divide by zero!\n");
 }
 else {
-printf("Invalid operator!\n"):
+printf("Invalid operator!\n");
   }
 return 0;
 }
